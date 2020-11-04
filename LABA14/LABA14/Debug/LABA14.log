@@ -1,0 +1,13 @@
+﻿  autotable.cpp
+  MyForm.cpp
+c:\users\lana\downloads\laba14\laba14\myform.h(295): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\lana\downloads\laba14\laba14\myform.h(343): warning C4101: ex: неиспользованная локальная переменная
+c:\users\lana\downloads\laba14\laba14\myform.cpp(9): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  sorttable.cpp
+  stroka.cpp
+  table.cpp
+c:\users\lana\downloads\laba14\laba14\table.cpp(11): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  autotable.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LABA14.vcxproj -> C:\Users\Lana\Downloads\LABA14\Debug\LABA14.exe
