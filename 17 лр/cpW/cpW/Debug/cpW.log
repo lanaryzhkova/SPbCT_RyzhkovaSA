@@ -1,0 +1,8 @@
+﻿  cpW.cpp
+c:\users\lana\source\repos\cpw\cpw\cpw.cpp(20): warning C4476: "printf": неизвестный символ поля типа "\xd1" в описателе формата
+c:\users\lana\source\repos\cpw\cpw\cpw.cpp(20): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  c:\users\lana\source\repos\cpw\cpw\cpw.cpp(20): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+c:\users\lana\source\repos\cpw\cpw\cpw.cpp(27): warning C4476: "printf": неизвестный символ поля типа "\xd1" в описателе формата
+c:\users\lana\source\repos\cpw\cpw\cpw.cpp(27): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  c:\users\lana\source\repos\cpw\cpw\cpw.cpp(27): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  cpW.vcxproj -> C:\Users\Lana\source\repos\cpW\Debug\cpW.exe
