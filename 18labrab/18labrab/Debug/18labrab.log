@@ -1,0 +1,11 @@
+﻿  18labrab.cpp
+c:\users\lana\source\repos\18labrab\18labrab\18labrab.cpp(53): warning C4244: =: преобразование "const WCHAR" в "CHAR", возможна потеря данных
+c:\users\lana\source\repos\18labrab\18labrab\18labrab.cpp(36): warning C4101: string1: неиспользованная локальная переменная
+c:\users\lana\source\repos\18labrab\18labrab\18labrab.cpp(39): warning C4101: k: неиспользованная локальная переменная
+c:\users\lana\source\repos\18labrab\18labrab\18labrab.cpp(36): warning C4101: string2: неиспользованная локальная переменная
+c:\users\lana\source\repos\18labrab\18labrab\18labrab.cpp(40): warning C4101: f2: неиспользованная локальная переменная
+c:\users\lana\source\repos\18labrab\18labrab\18labrab.cpp(37): warning C4101: Buffer2: неиспользованная локальная переменная
+c:\users\lana\source\repos\18labrab\18labrab\18labrab.cpp(39): warning C4101: j: неиспользованная локальная переменная
+c:\users\lana\source\repos\18labrab\18labrab\18labrab.cpp(39): warning C4101: KEY: неиспользованная локальная переменная
+c:\users\lana\source\repos\18labrab\18labrab\18labrab.cpp(38): warning C4101: nf2: неиспользованная локальная переменная
+  18labrab.vcxproj -> C:\Users\Lana\source\repos\18labrab\Debug\18labrab.exe
