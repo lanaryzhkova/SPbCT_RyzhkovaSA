@@ -1,0 +1,3 @@
+﻿  MyExecRefsDll.cpp
+c:\users\lana\source\repos\myexecrefsdll\myexecrefsdll\myexecrefsdll.cpp(11): warning C4101: p: неиспользованная локальная переменная
+  MyExecRefsDll.vcxproj -> C:\Users\Lana\source\repos\MathFuncsDll\Debug\MyExecRefsDll.exe

@@ -1,0 +1,13 @@
+﻿  MathFuncsDll.cpp
+c:\users\lana\source\repos\mathfuncsdll\mathfuncsdll\mathfuncsdll.cpp(12): warning C4273: MathFuncs::MyMathFuncs::Add: несовместимая компоновка dll
+  c:\users\lana\source\repos\mathfuncsdll\mathfuncsdll\mathfuncsdll.h(14): note: см. предыдущее определение "Add"
+c:\users\lana\source\repos\mathfuncsdll\mathfuncsdll\mathfuncsdll.cpp(16): warning C4273: MathFuncs::MyMathFuncs::Subtract: несовместимая компоновка dll
+  c:\users\lana\source\repos\mathfuncsdll\mathfuncsdll\mathfuncsdll.h(16): note: см. предыдущее определение "Subtract"
+c:\users\lana\source\repos\mathfuncsdll\mathfuncsdll\mathfuncsdll.cpp(20): warning C4273: MathFuncs::MyMathFuncs::Multiply: несовместимая компоновка dll
+  c:\users\lana\source\repos\mathfuncsdll\mathfuncsdll\mathfuncsdll.h(18): note: см. предыдущее определение "Multiply"
+c:\users\lana\source\repos\mathfuncsdll\mathfuncsdll\mathfuncsdll.cpp(24): warning C4273: MathFuncs::MyMathFuncs::Divide: несовместимая компоновка dll
+  c:\users\lana\source\repos\mathfuncsdll\mathfuncsdll\mathfuncsdll.h(21): note: см. предыдущее определение "Divide"
+c:\users\lana\source\repos\mathfuncsdll\mathfuncsdll\mathfuncsdll.cpp(32): warning C4273: MathFuncs::MyMathFuncs::Pow: несовместимая компоновка dll
+  c:\users\lana\source\repos\mathfuncsdll\mathfuncsdll\mathfuncsdll.h(23): note: см. предыдущее определение "Pow"
+     ╤ючфрхЄё  сшсышюЄхър C:\Users\Lana\source\repos\MathFuncsDll\Debug\MathFuncsDll.lib ш юс·хъЄ C:\Users\Lana\source\repos\MathFuncsDll\Debug\MathFuncsDll.exp
+  MathFuncsDll.vcxproj -> C:\Users\Lana\source\repos\MathFuncsDll\Debug\MathFuncsDll.dll
