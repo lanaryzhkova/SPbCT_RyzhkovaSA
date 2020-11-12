@@ -1,0 +1,4 @@
+C:\Users\Lana\source\repos\praktika\praktika\Debug\praktika.vcxprojAssemblyReference.cache
+C:\Users\Lana\source\repos\praktika\praktika\Debug\praktika.MyForm.resources
+C:\Users\Lana\source\repos\praktika\praktika\Debug\praktika.vcxproj.GenerateResource.cache
+C:\Users\Lana\source\repos\praktika\praktika\Debug\praktika.MyForm1.resources

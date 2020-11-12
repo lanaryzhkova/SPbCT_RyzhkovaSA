@@ -1,0 +1,5 @@
+﻿  MyForm1.cpp
+C:\Users\Lana\source\repos\praktika\praktika\MyForm1.h(162,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Lana\source\repos\praktika\praktika\MyForm1.h(174,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  praktika.vcxproj -> C:\Users\Lana\source\repos\praktika\Debug\praktika.exe
