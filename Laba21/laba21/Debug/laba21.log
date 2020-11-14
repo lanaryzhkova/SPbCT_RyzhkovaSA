@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (laba21.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  pch.cpp
+  21labrab.cpp
+C:\Users\Lana\Downloads\SPbCT_BulyninMA-main\Laba21\laba21\21labrab.cpp(47,35): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  laba21.vcxproj -> C:\Users\Lana\Downloads\SPbCT_BulyninMA-main\Laba21\Debug\21labrab.exe
